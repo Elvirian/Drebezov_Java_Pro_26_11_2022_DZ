@@ -1,4 +1,4 @@
-package EmployeeDZ1.Name;
+package EmployeeDZ2.Name;
 
 public class SameName {
 }

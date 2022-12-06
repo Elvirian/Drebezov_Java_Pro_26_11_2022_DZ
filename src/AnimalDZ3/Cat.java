@@ -1,6 +1,4 @@
-package AnimalDZ2;
-
-import AnimalDZ2.Animal;
+package AnimalDZ3;
 
 public class Cat extends Animal {
     private final int maxDistance = 200;

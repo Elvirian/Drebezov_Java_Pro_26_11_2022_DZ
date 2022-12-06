@@ -1,4 +1,4 @@
-package EmployeeDZ1;
+package EmployeeDZ2;
 
 public class Main {
 

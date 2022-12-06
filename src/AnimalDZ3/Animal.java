@@ -1,4 +1,4 @@
-package AnimalDZ2;
+package AnimalDZ3;
 
 public abstract class Animal {
 
