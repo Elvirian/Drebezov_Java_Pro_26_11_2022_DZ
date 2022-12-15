@@ -7,15 +7,43 @@ public class Human {
      private String email;
      private int phoneNumber;
 
-     public Human(String Name,String Position,String Email,int Age,int PhoneNumber) {
-          name = Name;
-          position = Position;
-          email = Email;
-          age = Age;
-          phoneNumber = PhoneNumber;
-
+     public String getName() {
+          return name;
      }
 
+     public void setName(String name) {
+          this.name = name;
+     }
 
+     public String getPosition() {
+          return position;
+     }
 
+     public void setPosition(String position) {
+          this.position = position;
+     }
+
+     public int getAge() {
+          return age;
+     }
+
+     public void setAge(int age) {
+          this.age = age;
+     }
+
+     public String getEmail() {
+          return email;
+     }
+
+     public void setEmail(String email) {
+          this.email = email;
+     }
+
+     public int getPhoneNumber() {
+          return phoneNumber;
+     }
+
+     public void setPhoneNumber(int phoneNumber) {
+          this.phoneNumber = phoneNumber;
+     }
 }

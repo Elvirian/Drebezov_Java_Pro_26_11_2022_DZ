@@ -4,7 +4,13 @@ public class Main {
 
 
     public static void main(String[] args) {
-        Human human1  = new Human ("Сем","Bos","sem.gmail.com",50,1234567890);
+        Human human1  = new Human();
+        human1.setName("Aleks");
+        human1.setAge(21);
+        human1.setEmail("Aleks@gmail.com");
+        human1.setPhoneNumber(123456789);
+        human1.setPosition("Bos");
+
 
 
 
